@@ -1,0 +1,7 @@
+name: BlockpartyReborn
+version: ${project.version}
+main: me.maximilian1021.l4zs.blockpartyreborn.Main
+api-version: 1.16
+authors: [ Maximilian1021, l4zs ]
+description: Ein universales Blockparty Minigame
+website: https://spigotmc.org
